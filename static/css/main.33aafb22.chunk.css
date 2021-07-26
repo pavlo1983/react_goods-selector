@@ -1,0 +1,2 @@
+body{background-color:teal}.App{text-align:center}li{list-style:none}.item{width:-webkit-max-content;width:max-content;text-align:center;font-size:18px;font-weight:700}button{width:150px;border-radius:10px;font-size:16px}.buttonToAdd{background-color:#98fb98}.buttonToRemove{background-color:tomato}.added .buttonToAdd{display:none}.added .item{background-color:#98fb98}.notAdded .buttonToRemove{display:none}.showButton{background-color:#db7093;opacity:1}.hideButton{opacity:0}
+/*# sourceMappingURL=main.33aafb22.chunk.css.map */
